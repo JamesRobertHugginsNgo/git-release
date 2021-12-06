@@ -1,0 +1,23 @@
+{
+  "name": "git-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesRobertHugginsNgo/git-release.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesRobertHugginsNgo/git-release/issues"
+  },
+  "homepage": "https://github.com/JamesRobertHugginsNgo/git-release#readme",
+  "devDependencies": {
+    "eslint": "^8.4.0"
+  }
+}
